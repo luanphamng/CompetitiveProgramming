@@ -1,0 +1,5 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+*.exe
+UnmannedTrain/.vscode/launch.json
+UnmannedTrain/.vscode/settings.json
