@@ -37,7 +37,6 @@ void gen(int step) {
 			gen(step + 1);
 		}
 	}
-	
 }
 
 int Solve(){
